@@ -306,6 +306,9 @@ article{
 .wwdp{
     padding:20px 0;
 }
+.wwdh2{
+    padding:0px 0 10px 15px
+}
 .wwdh3{
     padding-top:20px;
 }
@@ -347,4 +350,8 @@ article{
     cursor: pointer;
     color:#5b7cff;
     background:#fff;
+}
+
+.img{
+     width:50px; height: 50px; margin-top: 5px; border-radius: 100px;
 }
